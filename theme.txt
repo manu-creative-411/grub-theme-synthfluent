@@ -1,4 +1,6 @@
-# GRUB2 gfxmenu hyperfluent theme
+# GRUB2 gfxmenu synthfluent theme
+# manu_romero_411 2024
+# 4:3 version for old displays or lower resolutions
 
 # Global properties
 title-text: ""
